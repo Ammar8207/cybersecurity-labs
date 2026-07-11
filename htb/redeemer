@@ -1,0 +1,21 @@
+# HTB - Redeemer (Tier 0)
+**Difficulty:** Very Easy
+**OS:** Linux
+
+## Tools Used
+- nmap
+- redis-cli
+
+## Steps
+1. Connected Kali VM to HTB network via OpenVPN
+2. Default nmap missed Redis — ran `nmap -sV -p 6379 <IP>`
+3. Found port 6379 (Redis) open
+4. Connected using `redis-cli -h <IP>`
+5. Ran `info` to get server information
+6. Ran `keys *` to list all keys
+7. Retrieved flag using `get flag`
+
+## What I Learned
+- Default nmap only scans top 1000 ports — always scan specific ports if service is suspected
+- Redis without authentication exposes all stored data
+- Misconfigured databases are a serious real-world risk
