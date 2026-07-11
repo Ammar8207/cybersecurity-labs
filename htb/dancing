@@ -1,0 +1,20 @@
+# HTB - Dancing (Tier 0)
+**Difficulty:** Very Easy
+**OS:** Windows
+
+## Tools Used
+- nmap
+- smbclient
+
+## Steps
+1. Connected Kali VM to HTB network via OpenVPN
+2. Ran nmap -sV on target IP — found port 445 (SMB) open
+3. Listed shares using `smbclient -L <IP> -N`
+4. Found WorkShares accessible without password
+5. Connected using `smbclient \\\\<IP>\\WorkShares -N`
+6. Navigated directories, found flag.txt
+7. Downloaded using `get flag.txt`, read with `cat flag.txt`
+
+## What I Learned
+- SMB shares misconfigured without authentication are common
+- Always enumerate all shares, not just default ones
