@@ -9,6 +9,7 @@ Started from zero. Documenting everything as I go.
 - [Appointment](htb/appointment.md) - SQL injection, auth bypass
 - [Sequel](htb/sequel.md) - MySQL, no root password
 - [Crocodile](htb/crocodile.md) - FTP + HTTP, credential harvesting
+- [Responder](htb/responder.md) - RFI, NTLM hash capture, password cracking
 
 ## TryHackMe
 - [Defensive Security Intro](thm/defensive-security-intro.md)
