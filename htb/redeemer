@@ -6,7 +6,7 @@
 - nmap
 - redis-cli
 
-## Steps
+## Step
 1. Connected Kali VM to HTB network via OpenVPN
 2. Default nmap missed Redis — ran `nmap -sV -p 6379 <IP>`
 3. Found port 6379 (Redis) open
