@@ -2,7 +2,7 @@
 **Platform:** TryHackMe
 
 ## What It Covered
-How to properly document, report, and escalat
+How to properly document, report, and escalate
 high-risk SOC alerts.
 
 ## What I Learned
