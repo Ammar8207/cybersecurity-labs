@@ -1,4 +1,4 @@
-# THM - SOC L1 Alert Reporting
+# THM - SOC L1 Alert Reportin
 **Platform:** TryHackMe
 
 ## What It Covered
