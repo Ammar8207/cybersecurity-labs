@@ -10,4 +10,4 @@ high-risk SOC alerts.
   can delay incident response
 - Reports must include timeline, indicators, and 
   recommended actions
-- Communication between L1 and L2 analysts must be precise
+- Communication between L1 and L2 analysts must be precis
