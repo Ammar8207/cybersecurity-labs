@@ -22,6 +22,7 @@ Started from zero. Documenting everything as I go.
 
 ### Easy
 - [Cap](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/cap.md) - IDOR, PCAP analysis, FTP credentials, cap_setuid privesc
+- [Reactor](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/reactor.md) - CVE-2025-55182 Next.js RCE, Node.js inspector privesc
 
 ## TryHackMe
 - [Defensive Security Intro](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/defensive-security-intro.md)
