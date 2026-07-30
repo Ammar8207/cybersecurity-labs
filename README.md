@@ -15,6 +15,8 @@ Started from zero. Documenting everything as I go.
 - [Crocodile](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/crocodile.md) - FTP + HTTP, credential harvesting
 - [Responder](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/responder.md) - RFI, NTLM hash capture, password cracking
 - [Three](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/three.md) - S3 bucket misconfiguration, RCE via file upload
+
+### Tier 2
 - [Archetype](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/archetype.md) - SMB, MSSQL, privilege escalation
 - [Oopsie](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/oopsie.md) - IDOR, cookie manipulation, file upload
 - [Vaccine](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/vaccine.md) - FTP, zip cracking, SQL injection, sudo vi privesc
