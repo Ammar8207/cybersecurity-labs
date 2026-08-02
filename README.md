@@ -25,6 +25,7 @@ Started from zero. Documenting everything as I go.
 ### Easy
 - [Cap](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/cap.md) - IDOR, PCAP analysis, FTP credentials, cap_setuid privesc
 - [Reactor](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/reactor.md) - CVE-2025-55182 Next.js RCE, Node.js inspector privesc
+- [Enigma](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/enigma.md) - NFS, virtual host enumeration, CVE-2026-38751, OliveTin command injection
 
 ## TryHackMe
 
@@ -47,6 +48,10 @@ Started from zero. Documenting everything as I go.
 - [Hacker Holidays Day 1](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day1.md) - AI prompt injection, information disclosure
 - [Hacker Holidays Day 2](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day2.md) - Exposed Git repository, source code disclosure
 - [Hacker Holidays Day 3](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day3.md) - AWS Cognito misconfiguration, DynamoDB data exposure
+- [Hacker Holidays Day 4](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day4.md) - PCAP analysis, covert data exfiltration via HTTP cookies
+- [Hacker Holidays Day 5](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day5.md) - YAML injection, RCE, credential reuse, OliveTin privesc
+- [Hacker Holidays Day 6](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day6.md) - OSINT, Gravatar email hash, Base64 decoding
 
 ### OWASP
 - [OWASP Top 10 2025: IAAA Failures](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/owasp-iaaa-failures.md) - Broken access control, authentication failures, logging failures
+- [OWASP Top 10 2025: Application Design Flaws](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/owasp-insecure-design.md) - Unauthenticated API access, mobile app backend exposure
