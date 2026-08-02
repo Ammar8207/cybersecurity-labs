@@ -54,4 +54,4 @@ Started from zero. Documenting everything as I go.
 
 ### OWASP
 - [OWASP Top 10 2025: IAAA Failures](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/owasp-iaaa-failures.md) - Broken access control, authentication failures, logging failures
-- [OWASP Top 10 2025: Application Design Flaws](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/owasp-insecure-design.md) - Unauthenticated API access, mobile app backend exposure
+- [OWASP Top 10 2025: Application Design Flaws](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/owasp-appflaws.md) - Unauthenticated API access, mobile app backend exposure
