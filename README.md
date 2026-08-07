@@ -51,7 +51,9 @@ Started from zero. Documenting everything as I go.
 - [Hacker Holidays Day 4](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day4.md) - PCAP analysis, covert data exfiltration via HTTP cookies
 - [Hacker Holidays Day 5](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day5.md) - YAML injection, RCE, credential reuse, OliveTin privesc
 - [Hacker Holidays Day 6](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day6.md) - OSINT, Gravatar email hash, Base64 decoding
-
+- [Hacker Holidays Day 7](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day7.md) - NoSQL injection, EJS SSTI, Node.js inspector privesc, disk group exploitation
+- [Hacker Holidays Day 8](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day8.md) - Race condition, business logic flaw, Burp parallel requests
+- [Hacker Holidays Day 9](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day9.md) - Azure SAS token exposure, blob storage enumeration, service principal credential leak, Key Vault secret versioning
 ### OWASP
 - [OWASP Top 10 2025: IAAA Failures](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/owasp-iaaa-failures.md) - Broken access control, authentication failures, logging failures
 - [OWASP Top 10 2025: Application Design Flaws](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/owasp-appflaws.md) - Unauthenticated API access, mobile app backend exposure
