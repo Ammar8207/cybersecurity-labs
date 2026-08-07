@@ -1,4 +1,4 @@
-# Cybersecurity Labs & Writeups
+# Cybersecurity Labs & Writeup
 Started from zero. Documenting everything as I go.
 
 ## Hack The Box
