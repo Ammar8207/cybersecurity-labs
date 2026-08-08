@@ -54,6 +54,7 @@ Started from zero. Documenting everything as I go.
 - [Hacker Holidays Day 7](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day7.md) - NoSQL injection, EJS SSTI, Node.js inspector privesc, disk group exploitation
 - [Hacker Holidays Day 8](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day8.md) - Race condition, business logic flaw, Burp parallel requests
 - [Hacker Holidays Day 9](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day9.md) - Azure SAS token exposure, blob storage enumeration, service principal credential leak, Key Vault secret versioning
+- [Hacker Holidays Day 10](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day10.md) - Exposed credentials in HTML source, Zip Slip, Python reverse shell, hook worker RCE
 ### OWASP
 - [OWASP Top 10 2025: IAAA Failures](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/owasp-iaaa-failures.md) - Broken access control, authentication failures, logging failures
 - [OWASP Top 10 2025: Application Design Flaws](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/owasp-appflaws.md) - Unauthenticated API access, mobile app backend exposure
