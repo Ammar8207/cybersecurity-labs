@@ -55,6 +55,11 @@ Started from zero. Documenting everything as I go.
 - [Hacker Holidays Day 8](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day8.md) - Race condition, business logic flaw, Burp parallel requests
 - [Hacker Holidays Day 9](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day9.md) - Azure SAS token exposure, blob storage enumeration, service principal credential leak, Key Vault secret versioning
 - [Hacker Holidays Day 10](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day10.md) - Exposed credentials in HTML source, Zip Slip, Python reverse shell, hook worker RCE
+- [Hacker Holidays Day 11](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day11.md) - Command injection, internal service enumeration, DPAPI-style credential chain, SSH tunneling, root via automation API
+- [Hacker Holidays Day 12](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day12.md) - WMI persistence forensics, base64 + DEFLATE payload extraction, .NET binary decompilation
+- [Hacker Holidays Day 13](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day13.md) - Indirect prompt injection, AI agent tool abuse, override exploitation, double base64 decoding
+- [Hacker Holidays Day 14](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/hacker-holidays-day14.md) - KAPE triage, NT hash cracking, DPAPI decryption, Chrome saved password extraction, VeraCrypt container, PDF OCR
+  
 ### OWASP
 - [OWASP Top 10 2025: IAAA Failures](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/owasp-iaaa-failures.md) - Broken access control, authentication failures, logging failures
 - [OWASP Top 10 2025: Application Design Flaws](https://github.com/Ammar8207/cybersecurity-labs/blob/main/thm/owasp-appflaws.md) - Unauthenticated API access, mobile app backend exposure
