@@ -25,6 +25,7 @@ Started from zero. Documenting everything as I go.
 ### Easy
 - [Cap](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/cap.md) - IDOR, PCAP analysis, FTP credentials, cap_setuid privesc
 - [Reactor](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/reactor.md) - CVE-2025-55182 Next.js RCE, Node.js inspector privesc
+- [Nexus](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/nexus.md) - Gitea exposed credentials in commit history, Krayin CRM file upload RCE, credential reuse, git tree path traversal privesc via template sync
 - [Enigma](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/enigma.md) - NFS, virtual host enumeration, CVE-2026-38751, OliveTin command injection
 
 ## TryHackMe
