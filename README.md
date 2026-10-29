@@ -27,11 +27,11 @@ Started from zero. Documenting everything as I go.
 - [Reactor](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/reactor.md) - CVE-2025-55182 Next.js RCE, Node.js inspector privesc
 - [Nexus](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/nexus.md) - Gitea exposed credentials in commit history, Krayin CRM file upload RCE, credential reuse, git tree path traversal privesc via template sync
 - [Orion](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/orion.md) - CSRF validation bypass, CraftCMS RCE (CVE-2025-32432), exposed env file credential leak, telnetd auth bypass (CVE-2026-24061)
+- [Paperwork](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/paperwork.md) - LPD command injection, Jetdirect path traversal, Unix socket FD passing
 - [Enigma](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/enigma.md) - NFS, virtual host enumeration, CVE-2026-38751, OliveTin command injection
 
 ### Medium
 - [Abducted](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/abducted.md) - Samba print-spooler RCE (CVE-2026-4480), rclone credential decoding, SMB force user/wide links symlink abuse, systemd drop-in privesc
-- [Paperwork](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/paperwork.md) - LPD command injection, Jetdirect path traversal, Unix socket FD passing
 - [Fireflow](https://github.com/Ammar8207/cybersecurity-labs/blob/main/htb/fireflow.md) - Langflow unauthenticated RCE (CVE-2026-33017), JWT alg:none forgery, Kubernetes kubelet WebSocket exec privesc
 
 ## HTB Challenges
